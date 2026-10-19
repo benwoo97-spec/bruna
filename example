@@ -1,0 +1,86 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Computer Networks</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Computer Networks: The Foundation of Digital Communication</h1>
+    </header>
+
+    <main>
+
+        <section class="hero">
+            <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1600&q=80" alt="Computer networking and digital communication">
+        </section>
+
+        <section>
+            <h2>Introduction</h2>
+            <p>
+                Computer networks form the foundation of modern digital communication by enabling devices
+                to exchange information efficiently and securely. Organizations, educational institutions,
+                and individuals rely on networks to share resources, access the internet, and support
+                communication services.
+            </p>
+        </section>
+
+        <section>
+            <h2>Network Devices</h2>
+            <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1200&q=80" alt="Network devices and server equipment">
+            <p>
+                End devices such as computers, smartphones, printers, and servers generate and receive data.
+                Switches connect devices within a LAN, routers connect multiple networks, and firewalls
+                protect systems from unauthorized access and cyber threats.
+            </p>
+        </section>
+
+        <section>
+            <h2>Transmission Media</h2>
+            <img src="https://images.unsplash.com/photo-1526379095098-d400fd0bf935?auto=format&fit=crop&w=1200&q=80" alt="Digital technology and data transmission">
+            <p>
+                Transmission media carry data between devices. Wired media include Ethernet and
+                fiber-optic cables, while wireless media use radio waves. Fiber optics provide
+                high bandwidth and excellent reliability.
+            </p>
+        </section>
+
+        <section>
+            <h2>Types of Networks</h2>
+            <ul>
+                <li><strong>LAN:</strong> Connects devices within a local area.</li>
+                <li><strong>WAN:</strong> Connects networks across large geographic regions.</li>
+                <li><strong>WLAN:</strong> Uses wireless technology such as Wi-Fi.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Networking Concepts</h2>
+            <p>
+                IP addressing provides unique identifiers to network devices. Switching directs
+                data within local networks, while routing determines the best path between
+                different networks. TCP/IP enables reliable communication across the internet.
+            </p>
+        </section>
+
+        <section>
+            <h2>Conclusion</h2>
+            <p>
+                Computer networks rely on devices, transmission media, and communication protocols
+                to exchange information effectively. Understanding networking fundamentals is
+                essential for modern technology users and IT professionals.
+            </p>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>Computer Networks Research Project | APA References Included</p>
+    </footer>
+
+</body>
+</html>
